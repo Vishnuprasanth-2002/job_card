@@ -60,13 +60,13 @@ body {
   display: flex;
   justify-content: space-between;
   background-color: aliceblue;
-  border-radius: 15px;
+  border-radius: 16px;
 }
 .left {
   display: flex;
 }
 .icon-content {
-  margin-top: 10px;
+  margin-top: 12px;
 }
 .icon {
   width: 50px;
