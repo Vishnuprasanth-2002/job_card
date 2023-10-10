@@ -19,7 +19,7 @@ body {
   border: 5px solid white;
   border-radius: 20px;
   width: 325px;
-  height: 419px ;
+  height: 419px;
   margin: 20px;
 }
 .flex {
@@ -39,7 +39,7 @@ body {
   justify-content: end;
   padding: 0px 10px;
 }
-.zero{
+.zero {
   margin-top: 7px;
 }
 .arrow h3 {
@@ -60,7 +60,7 @@ body {
   display: flex;
   justify-content: space-between;
   background-color: aliceblue;
-  border-radius: 16px;
+  border-radius: 14px;
 }
 .left {
   display: flex;
